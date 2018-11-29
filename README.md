@@ -1,5 +1,5 @@
 # Usefull-hacking-tips
-usefull tips and places for hacking
+usefull tips and tools for hacking
 
 Some books you want to read:<br>
 <ul>
