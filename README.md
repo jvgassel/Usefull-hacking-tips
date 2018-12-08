@@ -9,4 +9,5 @@ Some books you want to read:<br>
 usefull tips and tools for hacking
 <ul>
   <li> create a file with a range of ip addresses: seq -f "10.10.10.%g" 1 254 > ip.txt
+  <li> or use prips 10.0.0.0/23 > ip.txt (first install prips: apt install prips)
 </ul>
