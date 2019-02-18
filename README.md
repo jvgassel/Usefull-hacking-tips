@@ -14,8 +14,8 @@ usefull tips and tools for hacking
 
 <b>NMAP commands</b>
 <ul>
-  <li> nmap -T4 -sV -sT --reason -p1-65535 --vv -oN <filename> <IP>
-  <li> nmap --script vuln <IP>
+  <li> nmap -T4 -sV -sT --reason -p1-65535 --vv -oN 'filename' 'IP'
+  <li> nmap --script vuln 'IP'
 </ul>
 
 <b>WPscan</b>
