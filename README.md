@@ -12,9 +12,14 @@ usefull tips and tools for hacking
   <li> or use prips 10.0.0.0/23 > ip.txt (first install prips: apt install prips)
 </ul>
 
-<b>NMAP commands
+<b>NMAP commands</b>
 <ul>
   <li> nmap -T4 -sV -sT --reason -p1-65535 --vv -oN <filename> <IP>
   <li> nmap --script vuln <IP>
 </ul>
 
+<b>WPscan</b>
+<ul>
+  <li> wpscan -u <URL> -eu -ep -et
+  <li> 
+</ul>
