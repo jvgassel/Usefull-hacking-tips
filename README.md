@@ -24,3 +24,5 @@ usefull tips and tools for hacking
   <li> wpscan -u <URL> -eu -ep -et
   <li> 
 </ul>
+    
+echo  $HISTFILE to check the history file location
