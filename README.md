@@ -16,6 +16,7 @@ usefull tips and tools for hacking
 <ul>
   <li> nmap -T4 -sV -sT --reason -p1-65535 --vv -oN 'filename' 'IP'
   <li> nmap --script vuln 'IP'
+  <li> nmap -sV -sC -A -oN filename ip
   <li> unicornscan -r300 -mU 'IP' - UDP scan. USE -mT for TCP
 </ul>
 
