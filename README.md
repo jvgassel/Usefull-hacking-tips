@@ -48,7 +48,8 @@ usefull tips and tools for hacking
 </ul>
 
 
-<b>IPSEC</b>
+<b>IPSEC hackthebox</b>
 <ul>
-  <li> juicypotato windows priv esc - https://www.youtube.com/watch?v=1ae64CdwLHE
+  <li> juicypotato windows priv esc - Conceal https://www.youtube.com/watch?v=1ae64CdwLHE
+  <li> setuid viewuser - Irked https://www.youtube.com/watch?v=OGFTM_qvtVI
 </ul>
