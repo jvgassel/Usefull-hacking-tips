@@ -46,3 +46,9 @@ usefull tips and tools for hacking
 <ul>
   <li> wpscan -u URL -eu -ep -et
 </ul>
+
+
+<b>IPSEC</b>
+<ul>
+  <li> juicypotato windows priv esc - https://www.youtube.com/watch?v=1ae64CdwLHE
+</ul>
