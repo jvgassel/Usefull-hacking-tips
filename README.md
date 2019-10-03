@@ -59,3 +59,14 @@ usefull tips and tools for hacking
   <li> setuid viewuser - Irked https://www.youtube.com/watch?v=OGFTM_qvtVI
   <li> hackthebox squid server - https://www.youtube.com/watch?v=5wyvpJa9LdU
 </ul>
+
+<b>Bloodhound</b>
+<ul>
+  <li> wget -O - https://debian.neo4j.org/neotechnology.gpg.key | sudo apt-key add -
+  <li> echo 'deb https://debian.neo4j.org/repo stable/' | sudo tee /etc/apt/sources.list.d/neo4j.list
+  <li> sudo apt-get update
+  <li> apt-get install neo4j
+  <li> apt-get install bloodhound
+  <li> neo4j start (set the admin password in the browser)
+  <li> bloodhound
+</ul>
