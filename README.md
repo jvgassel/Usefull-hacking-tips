@@ -36,6 +36,7 @@ usefull tips and tools for hacking
 <b>Priv Esc</b>
 <ul>
   <li> sudo -l
+  <li> https://github.com/ohpe/juicy-potato  
 </ul>
 
     
