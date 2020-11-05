@@ -71,3 +71,9 @@ usefull tips and tools for hacking
   <li> neo4j start (set the admin password in the browser)
   <li> bloodhound
 </ul>
+
+<b>Screenshot</b>
+<ul>
+  <li>gowitness-2.1.2-windows-amd64.exe scan --cidr 192.168.230.0/24 --threads 10
+  <li>gowitness-2.1.2-windows-amd64.exe report serve
+</ul>
