@@ -77,3 +77,9 @@ usefull tips and tools for hacking
   <li>gowitness-2.1.2-windows-amd64.exe scan --cidr 192.168.230.0/24 --threads 10
   <li>gowitness-2.1.2-windows-amd64.exe report serve
 </ul>
+
+<b>Procdump</b>
+<ul>
+  <li> procdump lsass https://www.onlinehashcrack.com/how-to-procdump-mimikatz-credentials.php
+  <li>
+</ul>
