@@ -75,6 +75,7 @@ usefull tips and tools for hacking
 <b>Screenshot</b>
 <ul>
   <li>gowitness-2.1.2-windows-amd64.exe scan --cidr 192.168.230.0/24 --threads 10
+  <li>gowitness-2.1.2-windows-amd64.exe scan -f ip_in_file.txt --threads 10
   <li>gowitness-2.1.2-windows-amd64.exe report serve
 </ul>
 
