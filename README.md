@@ -90,3 +90,9 @@ usefull tips and tools for hacking
   <li> findstr -S cpassword $env:logonserver\sysvol\*.xml
   <li> crack passwords with https://github.com/t0thkr1s/gpp-decrypt
 </ul>
+
+<b>Find string with grep</b>
+<ul>
+  <li> grep -oP '(?<="InsertSearchString": ")[^"]*'
+  
+</ul>
