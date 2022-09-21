@@ -96,3 +96,9 @@ usefull tips and tools for hacking
   <li> grep -oP '(?<="InsertSearchString": ")[^"]*'
   
 </ul>
+
+<b>Run pingcastle fromt CMD </b>
+<ul>
+  <li> PingCastle.exe --server dc.local --user xxxx --password xxxx --healthcheck
+  
+</ul>
