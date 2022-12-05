@@ -100,5 +100,6 @@ usefull tips and tools for hacking
 <b>Run pingcastle fromt CMD </b>
 <ul>
   <li> PingCastle.exe --server dc.local --user xxxx --password xxxx --healthcheck
+  <li> PingCastle.exe --server x.x.x.x --export users --user domainuser --password domainpassword
   
 </ul>
