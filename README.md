@@ -104,6 +104,11 @@ usefull tips and tools for hacking
   
 </ul>
 
+<b>Find in Linux</b>
+<ul>
+  <li>find -L . -name "foo*"</li>
+</ul>
+
 <b>Kerberos attacks </b>
 <ul>
   <li> From a non-domain PC: python GetUsersSPN.py -dc-ip x.x.x.x bla.local/account:password -request
