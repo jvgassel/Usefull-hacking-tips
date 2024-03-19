@@ -118,6 +118,13 @@ usefull tips and tools for hacking
   <li> if that works you can use python wmiexec.py bla.local/account@dc1.bla.local -hashes "insert hash"
 </ul>
 
+<b>find installed MSI's</b>
+<ul>
+  <li> Get-WmiObject Win32_Product | Format-Table IdentifyingNumber, Name
+  wmiexec /fa ID
+</ul>
+
+
 <b>Blacklist IP's when installing letsenscrypt</b>
 180.188.243.95
 79.137.68.184
