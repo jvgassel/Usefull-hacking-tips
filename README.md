@@ -124,6 +124,11 @@ usefull tips and tools for hacking
   wmiexec /fa ID
 </ul>
 
+<b>Check for AD or Azure AD joined</b>
+<ul>
+  <li> dsregcmd /status
+</ul>
+
 
 <b>Blacklist IP's when installing letsenscrypt</b>
 180.188.243.95
