@@ -129,6 +129,11 @@ usefull tips and tools for hacking
   <li> dsregcmd /status
 </ul>
 
+<b>Check for AD or Azure AD joined</b>
+<ul>
+<li></li>qpdf --encrypt passsword password 256 -- input.pdf output.pdf
+</ul>
+
 
 <b>Blacklist IP's when installing letsenscrypt</b>
 180.188.243.95
