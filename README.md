@@ -129,9 +129,9 @@ usefull tips and tools for hacking
   <li> dsregcmd /status
 </ul>
 
-<b>Check for AD or Azure AD joined</b>
+<b>encrypt file with QPDF</b>
 <ul>
-<li></li>qpdf --encrypt passsword password 256 -- input.pdf output.pdf
+<li>qpdf --encrypt passsword password 256 -- input.pdf output.pdf
 </ul>
 
 
